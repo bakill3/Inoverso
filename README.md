@@ -1,5 +1,7 @@
 # Inoverso Professional Portal
 
+> **Notice:** This website was last updated in early 2019 and may not reflect current web standards or practices.
+
 ## Overview
 
 Inoverso is a sophisticated professional portal, created at the end of 2018 and early 2019 for a client who has since generously allowed for its showcase on GitHub. It is a centralized hub designed to bridge the gap between clients and professionals in the technology service industry. The website facilitates the hiring of experts for project development, website creation, graphic design, and other technology-related services. Previously it could be accessed through https://inoverso.pt/ but now it can be accessed here [inoverso.tapgotech.com](https://inoverso.tapgotech.com/).
