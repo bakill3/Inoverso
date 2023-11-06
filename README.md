@@ -115,8 +115,8 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 ![Edit Portfolio](i9_pics/editar_portfolio.png)
 *An administrative page that allows for the real-time editing and updating of the portfolio entries.*
 
-### SEO Report (`SEO Report.png`)
-![SEO Report](i9_pics/SEO_Report.png)
+### SEO Report (`SEO.png`)
+![SEO Report](i9_pics/SEO.png)
 *An example of the portal's SEO performance, demonstrating the high level of optimization achieved.*
 
 ## Setup and Installation
