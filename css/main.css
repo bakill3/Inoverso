@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Neue-regular';
+  src: url('fonts/NeueHansKendrick-Regular.eot'); /* IE9 Compat Modes */
+  src: url('fonts/NeueHansKendrick-Regular?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/NeueHansKendrick-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/NeueHansKendrick-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/NeueHansKendrick-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/NeueHansKendrick-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+#footer {
+	background-color: #414042;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	height: 10%;
+	color: white;
+	font-family: Neue-regular;
+	font-size: 10%;
+}

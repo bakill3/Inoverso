@@ -1,0 +1,43 @@
+[08-May-2020 01:06:34 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[11-Jun-2020 15:16:22 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[05-Oct-2020 21:10:18 UTC] PHP Notice:  Undefined index: file in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 23
+[05-Oct-2020 21:10:18 UTC] PHP Warning:  file_get_contents(1601932218.png): failed to open stream: No such file or directory in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 37
+[08-Dec-2020 23:32:11 UTC] PHP Notice:  Undefined index: file in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 23
+[08-Dec-2020 23:32:11 UTC] PHP Warning:  file_get_contents(1607470331.png): failed to open stream: No such file or directory in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 37
+[04-Jun-2021 00:57:56 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[04-Jun-2021 00:57:56 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[04-Jun-2021 00:57:57 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[04-Jun-2021 00:57:57 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/notifica-mensagens-nao-vistas.php on line 3
+[14-Sep-2021 18:21:02 UTC] PHP Notice:  Undefined index: login in /home/hw36am2w/public_html/ajax/display_mensagem.php on line 4
+[14-Sep-2021 18:23:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Oct-2021 19:09:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: id_cliente in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 5
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: servico in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 6
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: titulo in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 7
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: descricao in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 8
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: id_user in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 9
+[09-Oct-2021 19:09:16 UTC] PHP Notice:  Undefined index: data_acabamento in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 12
+[09-Oct-2021 19:09:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_cliente in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 5
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: servico in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 6
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: titulo in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 7
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: descricao in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 8
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_user in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 9
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: data_acabamento in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 12
+[09-Oct-2021 19:09:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_cliente in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 5
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: servico in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 6
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: titulo in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 7
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: descricao in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 8
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_user in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 9
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: data_acabamento in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 12
+[09-Oct-2021 19:09:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_cliente in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 5
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: servico in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 6
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: titulo in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 7
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: descricao in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 8
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: id_user in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 9
+[09-Oct-2021 19:09:17 UTC] PHP Notice:  Undefined index: data_acabamento in /home/hw36am2w/public_html/ajax/inserir_orcamento.php on line 12
+[09-Oct-2021 19:09:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hw36am2w/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2021 23:05:23 UTC] PHP Notice:  Undefined index: file in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 23
+[29-Nov-2021 23:05:23 UTC] PHP Warning:  file_get_contents(1638227123.png): failed to open stream: No such file or directory in /home/hw36am2w/public_html/ajax/editar_perfil.php on line 37

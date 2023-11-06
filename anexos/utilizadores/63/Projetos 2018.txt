@@ -1,0 +1,9 @@
+Projetos 2018 (WebSites):
+- Loja Online (Completa)
+- Imobiliária (Completa)
+- Imobiliária/Apresentação de Imóveis
+- Restaurante (Tia Ilda)
+- Restaurante (Humberto)
+- Criador de WebSites (Faz sites, tipo WordPress)
+- Rede Social (75% Ajax)
+- Gestão de Tripulação (90% Ajax)

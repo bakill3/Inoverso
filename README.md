@@ -71,31 +71,53 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 
 ## Screenshots
 
-Below are the screenshots showcasing different pages of the Inoverso Professional Portal. These images provide a glimpse into the user interface and design elements that make up the platform.
+### Home Page (`index.png`)
+![Home Page](images/index.png)
+*The main landing page that visitors first see, featuring intuitive navigation and a snapshot of the portal's services.*
 
-### Home Page
-![Home Page](images/home_page.png)
-*The welcoming entry point of the portal, providing an overview of services and a direct call to action.*
+### Database Schema (`base de dados.png`)
+![Database Schema](images/base_de_dados.png)
+*A visual representation of the database schema detailing the tables and relationships within the Inoverso portal.*
 
-### About Page
-![About Page](images/about_page.png)
-*Detailing the expertise and background of the professional team available for hire.*
+### Login Page (`login.png`)
+![Login Page](images/login.png)
+*The login page where users enter their credentials to access the portal's personalized features.*
 
-### Portfolio Page
-![Portfolio Page](images/portfolio_page.png)
-*Displaying a range of completed projects, each with detailed information accessible from the database.*
+### Messaging System (`mensagens.png`)
+![Messaging System](images/mensagens.png)
+*The real-time messaging system that allows clients and service providers to communicate efficiently.*
 
-### Contact Page
-![Contact Page](images/contact_page.png)
-*A comprehensive contact form for potential clients to submit their projects and inquiries.*
+### Contact Form (`contact.png`)
+![Contact Form](images/contact.png)
+*A form designed for potential clients to make inquiries, request services, and reach out to professionals.*
 
-### User Dashboard
-![User Dashboard](images/user_dashboard.png)
-*The dashboard where users can view notifications, manage their profiles, and interact with the service providers.*
+### Quotes Page (`orcamentos.png`)
+![Quotes Page](images/orcamentos.png)
+*Where users can view and manage their quotes, providing an overview of service requests and budgeting.*
 
-### Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png)
-*Administrative interface featuring management tools for user roles, portfolio entries, and other administrative tasks.*
+### User Dashboard (`dashboard.png`)
+![User Dashboard](images/dashboard.png)
+*The central hub for users to navigate the portal, manage projects, and interact with notifications and updates.*
+
+### Request Quote (`pedir_orcamento.png`)
+![Request Quote](images/pedir_orcamento.png)
+*A detailed page where users can submit a comprehensive request for a service quote, specifying all necessary project details.*
+
+### Edit Profile (`editar_perfil.png`)
+![Edit Profile](images/editar_perfil.png)
+*The profile editing page where users can update their personal information, preferences, and profile picture.*
+
+### Portfolio Page (`portfolio.png`)
+![Portfolio Page](images/portfolio.png)
+*Showcases the collection of projects completed, with each entry providing insight into the professional capabilities.*
+
+### Edit Portfolio (`editar_portfolio.png`)
+![Edit Portfolio](images/editar_portfolio.png)
+*An administrative page that allows for the real-time editing and updating of the portfolio entries.*
+
+### SEO Report (`SEO Report.png`)
+![SEO Report](images/SEO_Report.png)
+*An example of the portal's SEO performance, demonstrating the high level of optimization achieved.*
 
 ## Setup and Installation
 

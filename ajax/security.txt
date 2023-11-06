@@ -1,0 +1,25 @@
+Maior parte da programação a nível de Servidor encontra-se na pasta AJAX.
+
+Vou definir aqui umas coisas para não estar a comentar em todos os ficheiros (Esta "guia" também vai estar num documento chamado security.txt nessa mesma pasta):
+!SEGURANÇA!
+Função htmlspecialchars() - Proteger contra injeção de Tags HTML (<script> e <iframe> são as mais perigosas);
+Função mysqli_real_escape_string() - Proteger contra Injeção SQL !IMPORTANTE (Se alguém conseguir injetar SQL, tem a acesso á base de dados toda, incluindo editar/adicionar/apagar/ver registos);
+password_hash($password, PASSWORD_DEFAULT) - Encriptar uma Var ($password), com um determinado tipo de encriptação (O melhor é PASSWORD_DEFAULT);
+
+!DB!
+Função mysqli_query() - Fazer algo na base de dados (Buscar/Editar/Inserir/Eliminar algum(ns) dado(s) de uma(ou mais) tabela(s) na base de dados.
+Função mysqli_fetch_array() - Usado para pegar múltiplos dados da mysqli_query() para uma array(), assim são chamados no código para variáveis. [Esta função convém ser usada num loop (aconselho o While para esta)]
+Função mysqli_fetch_assoc() - Muito parecida á mysqli_fetch_array(), mas é usada para ir buscar apenas um campo.
+
+!FICHEIROS!
+mkdir("pasta_criada_por_mim") - Cria uma pasta |Sabias que: mkdir também é usado no linux para criar pastas|;
+file_put_contents($caminho_da_pasta, $ficheiro) - Meter ficheiros numa determinada pasta
+
+
+!OUTROS!
+json_encode()/json_decode() - Serve para codificar/descodificar arrays ou vars em json, que depois podem ser usadas para retornar na página web do user e muito mais..
+if(isset($nome)) {} - Se a variável nome estiver definida faz o que está dentro { }
+date("Y-m-d H:i:s") - Data...
+
+Aqui estão explicadas maior parte das funções/linhas de código usadas em PHP (neste website).
+
