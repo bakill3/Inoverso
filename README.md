@@ -44,9 +44,17 @@ Inoverso is a sophisticated professional portal, created at the end of 2018 and 
 The database contains several tables that work together to store the necessary information:
 
 - `users`: Holds user credentials and profiles.
-- `projects`: Catalogs project information displayed in the portfolio.
-- `messages`: Archives communication between clients and service providers.
-- `quotes`: Tracks service quotations and responses.
+- `chat`: Stores real-time chat conversations between users.
+- `localizacoes`: Contains location data for various functionalities within the portal.
+- `mensagens`: Archives messages exchanged between clients and service providers.
+- `notificacoes`: Manages notifications for users about various interactions and updates.
+- `orcamentos`: Tracks service quotations, requests, and responses.
+- `portfolio`: Catalogs information displayed in the portfolio section.
+- `projetos`: Stores project-related data for the portfolio.
+- `status`: Defines various status codes for operations and interactions within the portal.
+
+These tables are interconnected with appropriate foreign keys to maintain the integrity of relationships within the data.
+
 
 These tables are interconnected with appropriate foreign keys to maintain the integrity of relationships within the data.
 
@@ -71,49 +79,51 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 
 ## Screenshots
 
-### Home Page (`index.png`)
-![Home Page](i9_pics/index.png)
-*The main landing page that visitors first see, featuring intuitive navigation and a snapshot of the portal's services.*
-
 ### Database Schema (`base de dados.png`)
 ![Database Schema](i9_pics/base_de_dados.png)
 *A visual representation of the database schema detailing the tables and relationships within the Inoverso portal.*
 
-### Login Page (`login.png`)
-![Login Page](i9_pics/login.png)
-*The login page where users enter their credentials to access the portal's personalized features.*
-
-### Messaging System (`mensagens.png`)
-![Messaging System](i9_pics/mensagens.png)
-*The real-time messaging system that allows clients and service providers to communicate efficiently.*
+### Home Page (`index.png`)
+![Home Page](i9_pics/index.png)
+*The main landing page that visitors first see, featuring intuitive navigation and a snapshot of the portal's services.*
 
 ### Contact Form (`contact.png`)
 ![Contact Form](i9_pics/contact.png)
 *A form designed for potential clients to make inquiries, request services, and reach out to professionals.*
 
-### Quotes Page (`orcamentos.png`)
-![Quotes Page](i9_pics/orcamentos.png)
-*Where users can view and manage their quotes, providing an overview of service requests and budgeting.*
+### Portfolio Page (`portfolio.png`)
+![Portfolio Page](i9_pics/portfolio.png)
+*Showcases the collection of projects completed, with each entry providing insight into the professional capabilities.*
+
+### Login Page (`login.png`)
+![Login Page](i9_pics/login.png)
+*The login page where users enter their credentials to access the portal's personalized features.*
 
 ### User Dashboard (`dashboard.png`)
 ![User Dashboard](i9_pics/dashboard.png)
 *The central hub for users to navigate the portal, manage projects, and interact with notifications and updates.*
 
+### Edit Portfolio (`editar_portfolio.png`)
+![Edit Portfolio](i9_pics/editar_portfolio.png)
+*An administrative page that allows for the real-time editing and updating of the portfolio entries.*
+
+### Quotes Page (`orcamentos.png`)
+![Quotes Page](i9_pics/orcamentos.png)
+*Where users can view and manage their quotes, providing an overview of service requests and budgeting.*
+
 ### Request Quote (`pedir_orcamento.png`)
 ![Request Quote](i9_pics/pedir_orcamento.png)
 *A detailed page where users can submit a comprehensive request for a service quote, specifying all necessary project details.*
+
+### Messaging System (`mensagens.png`)
+![Messaging System](i9_pics/mensagens.png)
+*The real-time messaging system that allows clients and service providers to communicate efficiently.*
 
 ### Edit Profile (`editar_perfil.png`)
 ![Edit Profile](i9_pics/editar_perfil.png)
 *The profile editing page where users can update their personal information, preferences, and profile picture.*
 
-### Portfolio Page (`portfolio.png`)
-![Portfolio Page](i9_pics/portfolio.png)
-*Showcases the collection of projects completed, with each entry providing insight into the professional capabilities.*
 
-### Edit Portfolio (`editar_portfolio.png`)
-![Edit Portfolio](i9_pics/editar_portfolio.png)
-*An administrative page that allows for the real-time editing and updating of the portfolio entries.*
 
 ### SEO Report (`SEO.png`)
 ![SEO Report](i9_pics/SEO.png)
@@ -122,7 +132,7 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 ## Setup and Installation
 
 1. Clone the repository to your local environment.
-2. Import the `inoverso_db_schema.sql` to your SQL database.
+2. Import the `hw36am2w_i9_trabalho.sql` to your SQL database.
 3. Edit `db_connect.php` with your database credentials.
 4. Ensure any dependencies are installed.
 5. Serve the site on a PHP-enabled server like Apache or Nginx.
