@@ -72,7 +72,7 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 ## Screenshots
 
 ### Home Page (`index.png`)
-![Home Page](images/index.png)
+![Home Page](i9_pics/index.png)
 *The main landing page that visitors first see, featuring intuitive navigation and a snapshot of the portal's services.*
 
 ### Database Schema (`base de dados.png`)
@@ -80,43 +80,43 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 *A visual representation of the database schema detailing the tables and relationships within the Inoverso portal.*
 
 ### Login Page (`login.png`)
-![Login Page](images/login.png)
+![Login Page](i9_pics/login.png)
 *The login page where users enter their credentials to access the portal's personalized features.*
 
 ### Messaging System (`mensagens.png`)
-![Messaging System](images/mensagens.png)
+![Messaging System](i9_pics/mensagens.png)
 *The real-time messaging system that allows clients and service providers to communicate efficiently.*
 
 ### Contact Form (`contact.png`)
-![Contact Form](images/contact.png)
+![Contact Form](i9_pics/contact.png)
 *A form designed for potential clients to make inquiries, request services, and reach out to professionals.*
 
 ### Quotes Page (`orcamentos.png`)
-![Quotes Page](images/orcamentos.png)
+![Quotes Page](i9_pics/orcamentos.png)
 *Where users can view and manage their quotes, providing an overview of service requests and budgeting.*
 
 ### User Dashboard (`dashboard.png`)
-![User Dashboard](images/dashboard.png)
+![User Dashboard](i9_pics/dashboard.png)
 *The central hub for users to navigate the portal, manage projects, and interact with notifications and updates.*
 
 ### Request Quote (`pedir_orcamento.png`)
-![Request Quote](images/pedir_orcamento.png)
+![Request Quote](i9_pics/pedir_orcamento.png)
 *A detailed page where users can submit a comprehensive request for a service quote, specifying all necessary project details.*
 
 ### Edit Profile (`editar_perfil.png`)
-![Edit Profile](images/editar_perfil.png)
+![Edit Profile](i9_pics/editar_perfil.png)
 *The profile editing page where users can update their personal information, preferences, and profile picture.*
 
 ### Portfolio Page (`portfolio.png`)
-![Portfolio Page](images/portfolio.png)
+![Portfolio Page](i9_pics/portfolio.png)
 *Showcases the collection of projects completed, with each entry providing insight into the professional capabilities.*
 
 ### Edit Portfolio (`editar_portfolio.png`)
-![Edit Portfolio](images/editar_portfolio.png)
+![Edit Portfolio](i9_pics/editar_portfolio.png)
 *An administrative page that allows for the real-time editing and updating of the portfolio entries.*
 
 ### SEO Report (`SEO Report.png`)
-![SEO Report](images/SEO_Report.png)
+![SEO Report](i9_pics/SEO_Report.png)
 *An example of the portal's SEO performance, demonstrating the high level of optimization achieved.*
 
 ## Setup and Installation
