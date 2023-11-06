@@ -76,7 +76,7 @@ The project was meticulously developed over the turn of 2018 to 2019 for a clien
 *The main landing page that visitors first see, featuring intuitive navigation and a snapshot of the portal's services.*
 
 ### Database Schema (`base de dados.png`)
-![Database Schema](images/base_de_dados.png)
+![Database Schema](i9_pics/base_de_dados.png)
 *A visual representation of the database schema detailing the tables and relationships within the Inoverso portal.*
 
 ### Login Page (`login.png`)
